@@ -23,7 +23,7 @@
 
 1. Clone Project Repository
    ```bash
-   git clone https://github.com/D4rkCipherX/Bums.git && cd Bums
+   git clone https://github.com/WaseemTechYt/Bumshack.git && cd Bums
    ```
 
 2. Install Dependencies
